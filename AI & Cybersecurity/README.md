@@ -1,3 +1,3 @@
-AI & Cybersecurity Course
+# AI & Cybersecurity Course
 
 Labs...
